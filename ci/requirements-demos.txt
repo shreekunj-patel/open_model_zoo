@@ -81,7 +81,7 @@ pluggy==1.0.0
     # via pytest
 pooch==1.5.1
     # via librosa
-protobuf==3.17.3
+protobuf==3.18.3
     # via tensorboardx
 py==1.10.0
     # via pytest

@@ -92,7 +92,7 @@ paddlepaddle==2.2.0
     #   -r tools/model_tools/requirements-paddle.in
 pillow==8.3.2
     # via torchvision
-protobuf==3.17.3
+protobuf==3.18.3
     # via
     #   -r ${INTEL_OPENVINO_DIR}/deployment_tools/model_optimizer/requirements_caffe.txt
     #   onnx
