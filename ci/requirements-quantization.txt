@@ -2,7 +2,7 @@
 
 addict==2.4.0
     # via pot (${INTEL_OPENVINO_DIR}/deployment_tools/tools/post_training_optimization_toolkit/setup.py)
-certifi==2021.5.30
+certifi==2022.12.7
     # via requests
 charset-normalizer==2.0.4
     # via requests

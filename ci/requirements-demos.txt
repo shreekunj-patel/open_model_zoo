@@ -6,7 +6,7 @@ attrs==21.2.0
     # via pytest
 audioread==2.1.9
     # via librosa
-certifi==2021.5.30
+certifi==2022.12.7
     # via requests
 cffi==1.14.6
     # via soundfile
