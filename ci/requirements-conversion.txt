@@ -79,7 +79,7 @@ numpy==1.19.5
     #   tensorflow
     #   torch
     #   torchvision
-oauthlib==3.1.1
+oauthlib==3.2.2
     # via requests-oauthlib
 onnx==1.10.1
     # via
