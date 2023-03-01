@@ -12,7 +12,7 @@ fast-ctc-decode (>=0.2.5)
 future (>=0.18.2) ; extra == 'caffe2'
 hyperopt (~=0.1.2)
 jstyleson (~=0.0.2)
-mxnet (~=1.2.0) ; (sys_platform == "win32") and extra == 'mxnet'
+mxnet (~=1.9.1) ; (sys_platform == "win32") and extra == 'mxnet'
 mxnet (~=1.7.0.post2) ; (sys_platform != "win32") and extra == 'mxnet'
 networkx (~=2.5)
 networkx (~=2.5) ; extra == 'caffe'
